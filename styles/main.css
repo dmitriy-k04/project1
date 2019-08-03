@@ -1,0 +1,35 @@
+body {background-image: url(/img/background.jpg);}
+.index-content {
+	background-color: #fff;
+	padding: 10px;
+	margin: 10px auto;
+	width: 70%;
+	z-index: 100;
+}
+
+
+.features{
+	/*background: linear-gradient(to top, #E4AF9D 20%, #E4E4D8 50%, #A19887 80%);*/
+	/*box-shadow: 2px 1px 3px #777;*/
+	/*-moz-box-shadow: 2px 1px 3px #777;*/
+	/*-webkit-box-shadow: 2px 1px 3px #777;*/
+	box-shadow: 2px 2px 40px 40px rgb(8,0,14);
+	background: rgb(8,0,14);
+	opacity: 0.6;
+
+
+
+	display: table;
+	width: 70%;
+	text-align: center;
+	margin: 30px auto;
+	font-size: 1.5em;
+}
+.features-item{
+	opacity: unset;
+	z-index: 100;
+	display: table-cell;
+	padding: 50px;
+	color: white;
+
+}

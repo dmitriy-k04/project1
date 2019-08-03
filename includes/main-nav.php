@@ -3,7 +3,7 @@
 				<nav class="main-navigation">
 					<ul>
 						<li>
-							<a id="general" href="/index.php">ГЛАВНАЯ<!-- <img src="img/8czrER6cp.png" width="368" height="204" alt="Барбершоп"> --></a>
+							<a id="general" href="/">ГЛАВНАЯ<!-- <img src="img/8czrER6cp.png" width="368" height="204" alt="Барбершоп"> --></a>
 						</li>
 						<li>
 							<a href="/info.php">ИНФОРМАЦИЯ</a>
@@ -18,7 +18,7 @@
 							<a href="/shop.php">МАГАЗИН</a>
 						</li>
 						<li>
-							<a href="/contacts.php">КОНТАКТЫ</a>
+							<a href="#footer">КОНТАКТЫ</a>
 						</li>
 					</ul>
 				</nav>

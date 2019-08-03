@@ -3,29 +3,30 @@
 	<head>
 		<meta charset="utf-8">
 		<title>БАРБЕРШОП "БОРОДИНСКИЙ"</title>
-	</head>
+		<link rel="stylesheet" href="/styles/main.css" type="text/css"/>
+    </head>
 	<body>
 		<header class="main-header">
 			<div class="container">
 				<nav class="main-navigation">
 					<ul>
 						<li>
-						<a href="/index.html"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
+						<a href="/index.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
 						</li>
 						<li>
-							<a href="/info.html">ИНФОРМАЦИЯ</a>
+							<a href="/info.php">ИНФОРМАЦИЯ</a>
 						</li>
 						<li>
-							<a href="/news.html">НОВОСТИ</a>
+							<a href="/news.php">НОВОСТИ</a>
 						</li>
 						<li>
-							<a href="/price.html">ПРАЙС-ЛИСТ</a>
+							<a href="/price.php">ПРАЙС-ЛИСТ</a>
 						</li>
 						<li>
-							<a href="/shop.html">МАГАЗИН</a>
+							<a href="/shop.php">МАГАЗИН</a>
 						</li>
 						<li>
-							<a href="/contacts.html">КОНТАКТЫ</a>
+							<a href="/contacts.php">КОНТАКТЫ</a>
 						</li>
 					</ul>
 				</nav>
@@ -40,22 +41,22 @@
 				<nav class="main-navigation">
 					<ul>
 						<li>
-							<a href="/index.html">ГЛАВНАЯ</a>
+							<a href="/index.php">ГЛАВНАЯ</a>
 						</li>
 						<li>
-							<a href="/shop.html">МАГАЗИН</a>
+							<a href="/shop.php">МАГАЗИН</a>
 						</li>
 							<li>
-							<a href="/BaxSet.html">НАБОР ДЛЯ ПУТЕШЕСТВИЙ BAXTER OF CALIFORNIA</a>
+							<a href="/BaxSet.php">НАБОР ДЛЯ ПУТЕШЕСТВИЙ BAXTER OF CALIFORNIA</a>
 						</li>
 					</ul>
 				</nav>
 			</div>
 			<div class="index-logo">
-				<a href="/BaxSet.html"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
-				<a href="/BaxSet.html"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
-				<a href="/BaxSet.html"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
-				<a href="/BaxSet.html"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
+				<a href="/BaxSet.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
+				<a href="/BaxSet.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
+				<a href="/BaxSet.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
+				<a href="/BaxSet.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
 			</div>
 						<div class="index-content">
 				<h3 class="index-content-title">ЕСТЬ В НАЛИЧИИ</h3>
@@ -73,25 +74,6 @@
 			<p>КРЕМ ПОСЛЕ БРИТЬЯ, ШАМПУНЬ (50 МЛ)</p>
 			<p>УДОБНАЯ КОЖАНАЯ КОСМЕТИЧКА</p>
 			</div>
-		<footer class="main-footer">
-			<div class="container">
-				<section class="footer-contacts">
-					Барбершоп "Бородинский"<br>
-					Адрес: г. Санкт-Петербург, Б. Конюшенная, д.19/8<br>
-					<a href="#">Как нас найти?</a><br>
-					Телефон: +7 (812) 666-02-66
-				</section>
-				<section class="footer-social">
-					<p>ДАВАЙТЕ ДРУЖИТЬ!</p>
-					<a class="social-btn social-btn-vk" href="#">ВКОНТАКТЕ</a>
-					<a class="social-btn social-btn-fb" href="#">ФЕЙСБУК</a>
-					<a class="social-btn social-btn-inst" href="#">ИНСТАГРАМ</a>
-				</section>
-				<section class="footer-copyright">
-					<p>РАЗРАБОТАНО:</p>
-					<a class="btn" href="https://htmlacademy.ru">HTML ACADEMY</a>
-				</section>
-			</div>
-		</footer>
+            <?php include 'includes/footer.php';?>
 	</body>
 </html>
