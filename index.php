@@ -8,7 +8,11 @@
 </head>
 <body>
 <?php include 'includes/main-nav.php';?>
-<h1>ГЛАВНАЯ</h1>
+<ul>
+    <li>
+        <a href="/index.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
+    </li>
+</ul>
 <section class="features">
     <div class="features-item">
         <b class="features-name">БЫСТРО</b>
@@ -36,7 +40,7 @@
                 <time datetime="2016-01-18">18 ЯНВАРЯ</time>
             </li>
         </ul>
-        <a class="btn" href="#">ВСЕ НОВОСТИ</a>
+        <a class="btn" href="/news.php">ВСЕ НОВОСТИ</a>
     </div>
     <div class="index-content-right">
         <h2 class="index-content-title">ФОТОГАЛЕРЕЯ</h2>
@@ -49,6 +53,7 @@
         </div>
     </div>
 </div>
+<div class="clear"></div>
 <div class="index-content">
     <div class="index-content-left">
         <h2 class="index-content-title">КОНТАКТНАЯ ИНФОРМАЦИЯ</h2>
@@ -65,7 +70,7 @@
         <a class="btn" href="#">КАК ПРОЕХАТЬ</a>
         <a class="btn" href="#">ОБРАТНАЯ СВЯЗЬ</a>
     </div>
-    <div class="index-content">
+    <div class="index-content1">
         <div class="index-content-right">
             <h2 class="index-content-title">ЗАПИСАТЬСЯ</h2>
             <p>Укажите желаемую дату и время и мы свяжемся с вами для подтверждения брони</p>
@@ -79,7 +84,6 @@
         </div>
     </div>
 </div>
-</main>
 <?php include 'includes/footer.php';?>
 </body>
 </html>

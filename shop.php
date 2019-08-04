@@ -42,11 +42,11 @@
     </div>
     <div class="index-logo">
         <a href="/BaxSet.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
-        <a href="/"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
-        <a href="/"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
-        <a href="/"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
-        <a href="/"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
-        <a href="/"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
+        <a href="/AIR CONDITIONER.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
+        <a href="/HAIRGEL.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
+        <a href="/ClayHair.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
+        <a href="/Shaving Gel.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
+        <a href="/ShavingSet.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
     </div>
     <?php include 'includes/footer.php';?>
 </body>

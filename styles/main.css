@@ -31,5 +31,37 @@ body {background-image: url(/img/background.jpg);}
 	display: table-cell;
 	padding: 50px;
 	color: white;
+}
 
+
+.index-content-left, .index-content-right {
+	display: table-cell;
+	/*padding: 50px;*/
+}
+
+
+.news-preview{
+	display: table;
+	width: 50%;
+	text-align: left;
+	margin: 30px 50px 10px 0;
+	font-size: 1em;
+}
+
+.gallery {
+	display: table-cell;
+}
+
+
+.index-content1{
+	display: table-cell;
+	width: 40%;
+	text-align: left;
+	margin: 30px 0 10px 50px;
+	font-size: 1.2em;
+}
+
+
+.index.php ul > li{
+	display: table-cell;
 }

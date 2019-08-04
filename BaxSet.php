@@ -3,40 +3,12 @@
 	<head>
 		<meta charset="utf-8">
 		<title>БАРБЕРШОП "БОРОДИНСКИЙ"</title>
-		<link rel="stylesheet" href="/styles/main.css" type="text/css"/>
+		<link rel="stylesheet" href="/styles/common.css" type="text/css"/>
     </head>
 	<body>
-		<header class="main-header">
-			<div class="container">
-				<nav class="main-navigation">
-					<ul>
-						<li>
-						<a href="/index.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
-						</li>
-						<li>
-							<a href="/info.php">ИНФОРМАЦИЯ</a>
-						</li>
-						<li>
-							<a href="/news.php">НОВОСТИ</a>
-						</li>
-						<li>
-							<a href="/price.php">ПРАЙС-ЛИСТ</a>
-						</li>
-						<li>
-							<a href="/shop.php">МАГАЗИН</a>
-						</li>
-						<li>
-							<a href="/contacts.php">КОНТАКТЫ</a>
-						</li>
-					</ul>
-				</nav>
-				<div class="user-block">
-					<a class="login" href="#">ВХОД</a>
-				</div>
-			</div>
-		</header>
+    <?php include 'includes/main-nav.php';?>
 		<main class="container">
-			<h1>BARBERSHOP BORODINSKI - МАГАЗИН</h1>
+			<h1>НАБОР ДЛЯ ПУТЕШЕСТВИЙ "BAXTER OF CALIFORNIA"</h1>
 			<div class="container">
 				<nav class="main-navigation">
 					<ul>
@@ -47,7 +19,7 @@
 							<a href="/shop.php">МАГАЗИН</a>
 						</li>
 							<li>
-							<a href="/BaxSet.php">НАБОР ДЛЯ ПУТЕШЕСТВИЙ BAXTER OF CALIFORNIA</a>
+							<a href="/BaxSet.php">НАБОР ДЛЯ ПУТЕШЕСТВИЙ "BAXTER OF CALIFORNIA"</a>
 						</li>
 					</ul>
 				</nav>
@@ -58,7 +30,7 @@
 				<a href="/BaxSet.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
 				<a href="/BaxSet.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
 			</div>
-						<div class="index-content">
+						<div class="index-content2">
 				<h3 class="index-content-title">ЕСТЬ В НАЛИЧИИ</h3>
 				<p>TRAVEL KIT – НЕОБХОДИМЫЙ АКСЕССУАР ВО ВРЕМЯ ЛЮБОГО ПУТЕШЕСТВИЯ. В АККУРАТНОЙ КОЖАНОЙ СУМКЕ НАХОДИТСЯ ВСЕ, ЧТО НУЖНО ДЛЯ БРИТЬЯ И УХОДА ЗА КОЖЕЙ ВО ВРЕМЯ РАБОЧЕЙ ПОЕЗДКИ ИЛИ ОТДЫХА: СРЕДСТВО ДЛЯ УМЫВАНИЯ, УВЛАЖНЯЮЩИЙ КРЕМ, КРЕМ ДЛЯ БРИТЬЯ, КРЕМ ПОСЛЕ БРИТЬЯ, ШАМПУНЬ. НАБОР ТАКЖЕ МОЖЕТ СТАТЬ ОТЛИЧНЫМ ПОДАРКОМ.</p>
 					<form class="appointment-form" action="https://echo.htmlacademy.ru" method="get">

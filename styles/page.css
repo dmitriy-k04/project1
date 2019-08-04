@@ -1,0 +1,13 @@
+/*.main-navigation nav{*/
+    /*display: table;*/
+    /*width: 50%;*/
+    /*text-align: left;*/
+    /*margin: 30px 50px 10px 0;*/
+    /*font-size: 1em;*/
+    /*color: black;*/
+/*}*/
+
+.index-logo{
+    display: table-cell;
+    float: right;
+}
