@@ -1,4 +1,7 @@
-body {background-image: url(/img/background.jpg);}
+body {
+	background-image: url(/img/background.jpg);
+}
+
 .index-content {
 	background-color: #fff;
 	padding: 10px;
