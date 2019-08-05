@@ -24,6 +24,12 @@ a:visited {
     text-transform: uppercase;
 }
 
+
+.nav-panel-txt:hover{
+    text-decoration: underline;
+    color: #98FB98;
+}
+
 .market-container {
     display: block;
     width: 100%;
@@ -98,4 +104,42 @@ sidebar {
     -webkit-flex: 0 auto;
     -ms-flex: 0 auto;
     flex: 0 auto;
+}
+
+.BaxSet.php > a{
+    display: inline;
+}
+
+
+.index-content-left, .index-content-right {
+    display: table-cell;
+}
+
+.index-content-right{
+    padding-left: 600px;
+    margin: 0 0 20px 0;
+}
+
+
+
+.index-content {
+    display: table;
+    width: 50%;
+    text-align: left;
+    margin: 30px 50px 10px 0;
+    font-size: 1em;
+}
+
+
+.index-content2 {
+    background-color: #fff;
+    padding-bottom: 100px;
+    margin: 10px auto;
+    width: 90%;
+    z-index: 100;
+}
+
+
+.  {
+    padding-left: 70px;
 }

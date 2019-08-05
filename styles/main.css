@@ -37,19 +37,29 @@ body {
 }
 
 
-.index-content-left, .index-content-right {
-	display: table-cell;
-	/*padding: 50px;*/
+.index-content-title {
+	margin: 0 0 0 40px;
 }
 
 
-.news-preview{
+.index-content-left, .index-content-right {
+	display: table-cell;
+}
+
+
+.news-preview {
 	display: table;
 	width: 50%;
 	text-align: left;
 	margin: 30px 50px 10px 0;
 	font-size: 1em;
 }
+
+
+.btn-news {
+	padding-left: 50px ;
+}
+
 
 .gallery {
 	display: table-cell;
@@ -67,4 +77,19 @@ body {
 
 .index.php ul > li{
 	display: table-cell;
+}
+
+
+.general-logo {
+  height: auto;
+}
+
+
+img {
+	display: block;
+	width: auto;
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 100%;
+	vertical-align: middle;
 }

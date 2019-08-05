@@ -1,5 +1,5 @@
 <header class="main-header">
-			<div class="container">
+			<div class="include-container">
 				<nav class="main-navigation">
                     <a id="general" href="/">ГЛАВНАЯ<!-- <img src="img/8czrER6cp.png" width="368" height="204" alt="Барбершоп"> --></a>
                     <a href="/info.php">ИНФОРМАЦИЯ</a>

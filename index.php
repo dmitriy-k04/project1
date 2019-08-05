@@ -8,11 +8,9 @@
 </head>
 <body>
 <?php include 'includes/main-nav.php';?>
-<ul>
-    <li>
-        <a href="/index.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
-    </li>
-</ul>
+<div class="general-logo">
+    <a href="/index.php"><img src="img/logo.png" width="368" height="204" alt="Барбершоп &laquo;Бородинский&raquo;"></a>
+</div>
 <section class="features">
     <div class="features-item">
         <b class="features-name">БЫСТРО</b>
@@ -40,13 +38,14 @@
                 <time datetime="2016-01-18">18 ЯНВАРЯ</time>
             </li>
         </ul>
-        <a class="btn" href="/news.php">ВСЕ НОВОСТИ</a>
+        <a class="btn-news" href="/news.php">ВСЕ НОВОСТИ</a>
     </div>
     <div class="index-content-right">
         <h2 class="index-content-title">ФОТОГАЛЕРЕЯ</h2>
         <div class="gallery">
             <figure class="gallery-content">
-                <!-- <img src="img/photo-1.jpg" width="286" height="164" alt=""> -->
+                <img src="img/logo.png" width="286" height="164" alt="">
+                <img src="img/logo.png" width="286" height="164" alt="">
             </figure>
             <button class="btn gallery-prev" type="button">НАЗАД</button>
             <button class="btn gallery-next" type="button">ВПЕРЁД</button>

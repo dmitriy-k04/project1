@@ -48,7 +48,7 @@
                 <div class="cart-column"><a href="/Shaving Gel.php"><img src="img/logo.png" width="170" alt="Барбершоп &laquo;Бородинский&raquo;"></a></div>
                 <div class="cart-column"><a href="/ShavingSet.php"><img src="img/logo.png" width="170" alt="Барбершоп &laquo;Бородинский&raquo;"></a></div>
             </div>
-            </div>
+        </div>
     </div>
 </main>
 <?php include 'includes/footer.php';?>

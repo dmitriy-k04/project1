@@ -15,7 +15,7 @@
             </section>
             <section class="footer-copyright">
                 <p>РАЗРАБОТАНО:</p>
-                <a class="btn" href="https://htmlacademy.ru">DIMON</a>
+                <a class="btn" href="#">DIMON</a>
             </section>
         </div>
     </div>
