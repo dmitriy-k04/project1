@@ -14,15 +14,15 @@
 <section class="features">
     <div class="features-item">
         <b class="features-name">БЫСТРО</b>
-        <p>Мы делаем свою работу быстро! Два часа пролетят незаметно и вы - счастливый обладатель стильной стрижки-минутки!</p>
+        <p>МЫ ДЕЛАЕМ СВОЮ РАБОТУ БЫСТРО! ДВА ЧАСА ПРОЛЕТЯТ НЕЗАМЕТНО И ВЫ - СЧАСТЛИВЫЙ ОБЛАДАТЕЛЬ СТИЛЬНОЙ СТРИЖКИ-МИНУТКИ!</p>
     </div>
     <div class="features-item">
         <b class="features-name">КРУТО</b>
-        <p>Забудьте, как вы стриглись раньше. Мы сделаем из вас звезду футбола или кино! Во всяком случае внешне.</p>
+        <p>ЗАБУДЬТЕ, КАК ВЫ СТРИГЛИСЬ РАНЬШЕ. МЫ СДЕЛАЕМ ИЗ ВАС ЗВЕЗДУ ФУТБОЛА ИЛИ КИНО! ВО ВСЯКОМ СЛУЧАЕ ВНЕШНЕ.</p>
     </div>
     <div class="features-item">
         <b class="features-name">ДОРОГО</b>
-        <p>Наши мастера - профессионалы своего дела и не могут стоить дёшево. К тому же, разве цена не дает определённый статус?</p>
+        <p>НАШИ МАСТЕРА - ПРОФЕССИОНАЛЫ СВОЕГО ДЕЛА И НЕ МОГУТ СТОИТЬ ДЁШЕВО. К ТОМУ ЖЕ, РАЗВЕ ЦЕНА НЕ ДАЁТ ОПРЕДЕЛЁННЫЙ СТАТУС?</p>
     </div>
 </section>
 <div class="index-content">
@@ -30,12 +30,19 @@
         <h2 class="index-content-title">НОВОСТИ</h2>
         <ul class="news-preview">
             <li>
-                <p>Нам наконец завезли Ягермайстер! Теперь вы можете пропустить стаканчик во время стрижки</p>
-                <time datetime="2016-01-11">11 ЯНВАРЯ</time>
+                <p>СЕКРЕТЫ МЯГКОЙ И ПОСЛУШНОЙ БОРОДЫ</p>
+                <time datetime="2016-01-11">25 ЯНВАРЯ</time>
+                <a href="/secretssoftanddocilebeard.php">Подробнее</a>
             </li>
             <li>
-                <p>В нашей команде пополнение, Борис "Бритва" Стригунец, обладатель множества титулов и наград пополнил наши стройные ряды</p>
+                <p>В НАШЕЙ КОМАНДЕ ПОПОЛНЕНИЕ, БОРИС "БРИТВА" СТРИГУНЕЦ!</p>
                 <time datetime="2016-01-18">18 ЯНВАРЯ</time>
+                <a href="/BorisStrigunec.php">Подробнее</a>
+            </li>
+            <li>
+                <p>НАМ НАКОНЕЦ ЗАВЕЗЛИ ЯГЕРМЕЙСТЕР!</p>
+                <time datetime="2016-01-11">11 ЯНВАРЯ</time>
+                <a href="/Jagermayster.php">Подробнее</a>
             </li>
         </ul>
         <a class="btn-news" href="/news.php">ВСЕ НОВОСТИ</a>
@@ -57,14 +64,14 @@
     <div class="index-content-left">
         <h2 class="index-content-title">КОНТАКТНАЯ ИНФОРМАЦИЯ</h2>
         <p>
-            Барбершоп "Бородинский"<br>
-            Адрес: г. Санкт-Петербург, Б. Конюшенная, д.19/8<br>
-            Телефон: +7 (812) 666-02-66
+            БАРБЕРШОП "БОРОДИНСКИЙ"<br>
+            АДРЕС: Г. САНКТ-ПЕТЕРБУРГ, Б. КОНЮШЕННАЯ, Д.19/8<br>
+            ТЕЛЕФОН: +7 (812) 666-02-66
         </p>
         <p>
-            Время работы:<br>
-            ПН-ПТ: с 10:00 до 22:00<br>
-            СБ-ВС: с 10:00 до 19:00
+            ВРЕМЯ РАБОТЫ:<br>
+            ПН-ПТ: С 10:00 ДО 22:00<br>
+            СБ-ВС: С 10:00 ДО 19:00
         </p>
         <a class="btn" href="#">КАК ПРОЕХАТЬ</a>
         <a class="btn" href="#">ОБРАТНАЯ СВЯЗЬ</a>
@@ -72,14 +79,14 @@
     <div class="index-content1">
         <div class="index-content-right">
             <h2 class="index-content-title">ЗАПИСАТЬСЯ</h2>
-            <p>Укажите желаемую дату и время и мы свяжемся с вами для подтверждения брони</p>
+            <p>УКАЖИТЕ ЖЕЛАЕМУЮ ДАТУ И ВРЕМЯ И МЫ СВЯЖЕМСЯ С ВАМИ ДЛЯ ПОДТВЕРЖДЕНИЯ БРОНИ</p>
             <form class="appointment-form" action="https://echo.htmlacademy.ru" method="post">
-                <input type="text" name="date" value="" placeholder="Дата">
-                <input type="text" name="time" value="" placeholder="Время">
-                <input type="text" name="name" value="" placeholder="Ваше имя">
-                <input type="tel" name="phone" value="" placeholder="Телефон">
-                <button class="btn" type="submit">ОТПРАВИТЬ</button>
+                <input type="text" name="date" value="" placeholder="ДАТА">
+                <input type="text" name="time" value="" placeholder="ВРЕМЯ">
+                <input type="text" name="name" value="" placeholder="ВАШЕ ИМЯ">
+                <input type="tel" name="phone" value="" placeholder="ТЕЛЕФОН">
             </form>
+            <div class="btn-application"><button class="btn" type="submit">ОТПРАВИТЬ</button></div>
         </div>
     </div>
 </div>

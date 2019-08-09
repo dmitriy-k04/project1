@@ -47,6 +47,11 @@ body {
 }
 
 
+.index-content-left a{
+	text-decoration: underline;
+}
+
+
 .news-preview {
 	display: table;
 	width: 50%;
