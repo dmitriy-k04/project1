@@ -17,8 +17,12 @@
 <div class="index-content-news">
     <div class="index-content-news-left">
         <div class="index-content-news-left-1"></div>
-        <div class="index-content-news-left-2"></div>
-        <div class="index-content-news-left-3"></div>
+        <a href="/secretssoftanddocilebeard.php">СЕКРЕТЫ МЯГКОЙ И ПОСЛУШНОЙ БОРОДЫ</a>
+        <div class="index-content-news-left-2">НОВЫЙ ЧЛЕН КОМАНДЫ!</div>
+        <a href="/BorisStrigunec.php"></a>
+        <div class="index-content-news-left-3">ЯГЕРМАЙСТЕР</div>
+        <a href="/Jagermayster.php"></a>
+    </div>
     <div class="index-content-news-right">
         <div class="index-content-news-right-1">
             <h2 class="index-content-title-news">КАТЕГОРИИ</h2>
