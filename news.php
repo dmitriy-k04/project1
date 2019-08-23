@@ -11,17 +11,20 @@
 <div class="nav-panel">
     <nav class="bread-crumbs">
         <a class="nav-panel-txt" href="/index.php">ГЛАВНАЯ</a>
-        <a class="nav-panel-txt" href="/shop.php">НОВОСТИ</a>
+        <a class="nav-panel-txt" href="/news.php">НОВОСТИ</a>
     </nav>
 </div>
 <div class="index-content-news">
     <div class="index-content-news-left">
         <div class="index-content-news-left-1"></div>
-        <a href="/secretssoftanddocilebeard.php">СЕКРЕТЫ МЯГКОЙ И ПОСЛУШНОЙ БОРОДЫ</a>
-        <div class="index-content-news-left-2">НОВЫЙ ЧЛЕН КОМАНДЫ!</div>
-        <a href="/BorisStrigunec.php"></a>
-        <div class="index-content-news-left-3">ЯГЕРМАЙСТЕР</div>
-        <a href="/Jagermayster.php"></a>
+        <div class="cart-column"><a href="/secretsofbeard.php"><img src="img/logo.png" width="170" alt="Барбершоп &laquo;Бородинский&raquo;"></a></div>
+        <a class="btn-news-content" href="/secretsofbeard.php">ПОДРОБНЕЕ</a>
+        <div class="index-content-news-left-2"></div>
+        <div class="cart-column"><a href="/BorisStrigunec.php"><img src="img/logo.png" width="170" alt="Барбершоп &laquo;Бородинский&raquo;"></a></div>
+        <a class="btn-news-content" href="/BorisStrigunec.php">ПОДРОБНЕЕ</a>
+        <div class="index-content-news-left-3"></div>
+        <div class="cart-column"><a href="/Jagermayster.php"><img src="img/logo.png" width="170" alt="Барбершоп &laquo;Бородинский&raquo;"></a></div>
+        <a class="btn-news-content" href="/Jagermayster.php">ПОДРОБНЕЕ</a>
     </div>
     <div class="index-content-news-right">
         <div class="index-content-news-right-1">

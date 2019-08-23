@@ -32,7 +32,7 @@
             <li>
                 <p>СЕКРЕТЫ МЯГКОЙ И ПОСЛУШНОЙ БОРОДЫ</p>
                 <time datetime="2016-01-11">25 ЯНВАРЯ</time>
-                <a href="/secretssoftanddocilebeard.php">Подробнее</a>
+                <a href="/secretsofbeard.php">Подробнее</a>
             </li>
             <li>
                 <p>В НАШЕЙ КОМАНДЕ ПОПОЛНЕНИЕ, БОРИС "БРИТВА" СТРИГУНЕЦ!</p>
