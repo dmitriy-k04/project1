@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>БАРБЕРШОП "БОРОДИНСКИЙ"</title>
+    <link rel="stylesheet" href="/styles/newsstyle.css" type="text/css"/>
     <link rel="stylesheet" href="/styles/common.css" type="text/css"/>
 </head>
 <body>

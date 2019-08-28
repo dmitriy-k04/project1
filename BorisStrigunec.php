@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>БАРБЕРШОП "БОРОДИНСКИЙ"</title>
+    <link rel="stylesheet" href="/styles/newsstyle.css" type="text/css"/>
     <link rel="stylesheet" href="/styles/common.css" type="text/css"/>
 </head>
 <body>
@@ -16,7 +17,7 @@
     </nav>
 </div>
 <div class="index-content-news">
-    <div class="index-content-news-left">
+    <div class="index-content-news-left-a">
         <div class="news-gallery-content-2">
             <div class="cart-column"><a href="/BorisStrigunec.php"><img src="img/logo.png" width="170" alt="Барбершоп &laquo;Бородинский&raquo;"></a></div>
             <h1>В НАШЕЙ КОМАНДЕ ПОПОЛНЕНИЕ!</h1>

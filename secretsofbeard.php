@@ -4,6 +4,7 @@
     <meta charset="utf-8">
     <title>БАРБЕРШОП "БОРОДИНСКИЙ"</title>
     <link rel="stylesheet" href="/styles/common.css" type="text/css"/>
+    <link rel="stylesheet" href="/styles/newsstyle.css" type="text/css"/>
 </head>
 <body>
 <?php include 'includes/main-nav.php';?>
@@ -16,7 +17,7 @@
     </nav>
 </div>
 <div class="index-content-news">
-    <div class="index-content-news-left">
+    <div class="index-content-news-left-a">
         <div class="news-gallery-content-1">
             <div class="cart-column"><a href="/secretsofbeard.php"><img src="img/logo.png" width="170" alt="Барбершоп &laquo;Бородинский&raquo;"></a></div>
             <h1>СЕКРЕТЫ МЯГКОЙ И ПОСЛУШНОЙ БОРОДЫ</h1>

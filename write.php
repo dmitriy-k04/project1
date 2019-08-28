@@ -7,7 +7,7 @@
 </head>
 <body>
 <?php include 'includes/main-nav.php';?>
-<h1>ИНФОРМАЦИЯ</h1>
+<h1>ЗАПИСАТЬСЯ</h1>
 
 <?php include 'includes/footer.php';?>
 </body>
