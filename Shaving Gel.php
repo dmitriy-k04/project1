@@ -34,7 +34,7 @@
                 <form class="appointment-form" action="https://echo.htmlacademy.ru" method="get">
                     <input type="text" name="cost" value="" placeholder="1000 РУБ.">
                 </form>
-                <a class="buy-btn" href="#">КУПИТЬ</a>
+                <a class="buy-btn" href="/buy.php">КУПИТЬ</a>
             </div>
             <div class="index-content">
                 <p>ОБЪЁМ 150 МЛ</p>

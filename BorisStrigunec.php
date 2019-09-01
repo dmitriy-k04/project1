@@ -3,8 +3,8 @@
 <head>
     <meta charset="utf-8">
     <title>БАРБЕРШОП "БОРОДИНСКИЙ"</title>
-    <link rel="stylesheet" href="/styles/newsstyle.css" type="text/css"/>
     <link rel="stylesheet" href="/styles/common.css" type="text/css"/>
+    <link rel="stylesheet" href="/styles/newscontent.css" type="text/css"/>
 </head>
 <body>
 <?php include 'includes/main-nav.php';?>
@@ -23,7 +23,7 @@
             <h1>В НАШЕЙ КОМАНДЕ ПОПОЛНЕНИЕ!</h1>
             <div class="news-2">
                 <p>ПОПРИВЕТСТВУЕМ НОВОГО ЧЛЕНА НАШЕЙ КОМАНДЫ БОРИСА "БРИТВУ" СТРИГУНЦА, ОБЛАДАТЕЛЯ МНОЖЕСТВА ПРЕМИЙ И НАГРАД!</p>
-                <a class="btn-sign" href="#">ЗАПИСАТЬСЯ</a>
+                <a class="btn-sign" href="write.php">ЗАПИСАТЬСЯ</a>
             </div>
         </div>
         <div class="index content-news-right"></div>

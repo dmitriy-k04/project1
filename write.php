@@ -1,14 +1,19 @@
 <!DOCTYPE html>
 <html lang="ru">
-<head>
     <meta charset="utf-8">
-    <title>БАРБЕРШОП "БОРОДИНСКИЙ"</title>
-    <link rel="stylesheet" href="/styles/common.css" type="text/css"/>
-</head>
-<body>
-<?php include 'includes/main-nav.php';?>
-<h1>ЗАПИСАТЬСЯ</h1>
-
-<?php include 'includes/footer.php';?>
+    <body>
+<div class="index-content1">
+    <div class="index-content-right">
+        <h1 class="index-content-title">ЗАПИСАТЬСЯ</h1>
+        <p>УКАЖИТЕ ЖЕЛАЕМУЮ ДАТУ И ВРЕМЯ И МЫ СВЯЖЕМСЯ С ВАМИ ДЛЯ ПОДТВЕРЖДЕНИЯ БРОНИ</p>
+        <form class="appointment-form" action="https://echo.htmlacademy.ru" method="post">
+            <input type="text" name="date" value="" placeholder="ДАТА">
+            <input type="text" name="time" value="" placeholder="ВРЕМЯ">
+            <input type="text" name="name" value="" placeholder="ВАШЕ ИМЯ">
+            <input type="tel" name="phone" value="" placeholder="ТЕЛЕФОН">
+        </form>
+        <div class="btn-application"><button class="btn" type="submit">ОТПРАВИТЬ</button></div>
+    </div>
+</div>
 </body>
 </html>

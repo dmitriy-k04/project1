@@ -74,7 +74,7 @@
             СБ-ВС: С 10:00 ДО 19:00
         </p>
         <a class="btn" href="#">КАК ПРОЕХАТЬ</a>
-        <a class="btn" href="#">ОБРАТНАЯ СВЯЗЬ</a>
+        <a class="btn" href="write.php">ЗАПИСАТЬСЯ</a>
     </div>
     <div class="index-content1">
         <div class="index-content-right">

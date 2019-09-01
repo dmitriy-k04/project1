@@ -34,7 +34,7 @@
                 <form class="appointment-form" action="https://echo.htmlacademy.ru" method="get">
                     <input type="text" name="cost" value="" placeholder="7230 РУБ.">
                 </form>
-                <a class="buy-btn" href="#">КУПИТЬ</a>
+                <a class="buy-btn" href="/buy.php">КУПИТЬ</a>
             </div>
             <div class="index-content">
                 <p>СДЕЛАНО В США</p>
